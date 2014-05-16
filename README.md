@@ -14,6 +14,9 @@ Resources For Version Control And Git
   * High-level visual descriptions of VCS concepts
   * Introduces some vocabulary
   * But visuals are nice
+* [Centralized Workflow](https://www.atlassian.com/git/workflows#!workflow-centralized)
+ * Somewhat detailed description of our workflow model
+ * Don't confuse a *centralized workflow* (how we're implementing VCS using Git) with a *centralized VCS* (e.g., Subversion, which is not our VCS)
 
   
 ## Resources for Git
