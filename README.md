@@ -7,6 +7,9 @@ Resources For Version Control And Git
 
 
 ## Resources for VCS
+
+These resources are mostly agnostic to the system. They describe what *version control* is and generally, how it works.
+
 * [What is VCS?](http://youtu.be/8oRjP8yj2Wo)
   * Very high-level
   * 6-minute screencast; get your headphones on
@@ -20,6 +23,9 @@ Resources For Version Control And Git
 
   
 ## Resources for Git
+
+These resources are specific to the Git VCS. Some of the stuff here can be generalized to other systems, but don't count on it.
+
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
   * Gets into the weeds a bit
   * Visually describes each VCS concept as implemented in Git
