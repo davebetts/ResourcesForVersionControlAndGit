@@ -17,10 +17,19 @@ These resources are mostly agnostic to the system. They describe what *version c
   * High-level visual descriptions of VCS concepts
   * Introduces some vocabulary
   * But visuals are nice
+* [Getting Started: About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
+  * Advantages over no version control
+  * Centralized vs distributed
+  * Lots of Git how-to's (branching, merging, etc)
 * [Centralized Workflow](https://www.atlassian.com/git/workflows#!workflow-centralized)
- * Somewhat detailed description of our workflow model
- * Don't confuse a *centralized workflow* (how we're implementing VCS using Git) with a *centralized VCS* (e.g., Subversion, which is not our VCS)
-
+  * Somewhat detailed description of our workflow model
+  * Don't confuse a *centralized workflow* (how we're implementing VCS using Git) with a *centralized VCS* (e.g., Subversion, which is not our VCS)
+* [A Review of 7 Common VCS's](http://www.smashingmagazine.com/2008/09/18/the-top-7-open-source-version-control-systems/)
+  * Subversion, Git, Mercurial, Bazaar, and more
+* [Choosing a Version Control System - A Beginners Tour of the Options](http://www.codeproject.com/Articles/431125/Choosing-a-Version-Control-System-A-Beginners-Tour)
+  * Easy reading
+  * First-person account of adopting a VCS
+  * Introduction of concepts
   
 ## Resources for Git
 
