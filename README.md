@@ -8,7 +8,7 @@ Resources For Version Control And Git
 
 ## Rationale
 
-From [Ten Simple Rules for Effective Computational Research](http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01):
+From [Ten Simple Rules for Effective Computational Research](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003506):
 
 > Rule 7: Version Control Everything  
 >  
