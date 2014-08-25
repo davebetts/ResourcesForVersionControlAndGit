@@ -6,6 +6,15 @@ Resources For Version Control And Git
 * Git = a VCS (there are others)
 
 
+## Rationale
+
+From [Ten Simple Rules for Effective Computational Research](http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01):
+
+> Rule 7: Version Control Everything  
+>  
+>  Version control systems (VCSs) offer an easy way to store and back up not only the current version of your code that you are working on but also every previous version of the code (in what's known as a repository). This not only saves you from having to keep multiple copies of the same file but also allows you to "roll back" to an older "working" version of the code if things go wrong. VCSs also allow you to share material between multiple machines, operating systems, and more importantly, users in a simple and robust manner. Two of the most popular VCSs are [Subversion](http://subversion.apache.org) and [Git](http://www.github.com), both of which offer many advanced features for managing your code. Cloud storage such as [Dropbox](http://www.dropbox.com) and [SkyDrive](http://www.skydrive.live.com) offer basic file sharing and backup facilities; however, they don't offer the code management features of true VCSs, so the effort put in to learning a VCS is well worth it (see [Text S1](http://www.ploscompbiol.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pcbi.1003506.s001) for guides on getting started with VCSs). While the primary use of version control is to manage the development and distribution of code, many other collaborative endeavours can be stored in a version control repository. In particular, using version control tools while preparing publications can save time and effort, especially when dealing with input from multiple authors. For example, contributions to this manuscript were managed using a VCS.
+
+
 ## Resources for VCS
 
 These resources are mostly agnostic to the system. They describe what *version control* is and generally, how it works.
